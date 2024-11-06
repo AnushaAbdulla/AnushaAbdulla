@@ -57,7 +57,7 @@ I’m working toward a career in [mention career goals, e.g., "the machine learn
 
 Let’s collaborate or chat about shared interests!  
 - **LinkedIn**: [Anusha Abdulla](https://www.linkedin.com/in/AnushaAbdulla)
-- **GitHub**: [Your Username](https://github.com/AnushaAbdulla)
+- **GitHub**: [Anusha Abdulla](https://github.com/AnushaAbdulla)
 --- 
 
 Thanks for stopping by! Please feel free to explore, star, or reach out about anything you're looking at. 😊
