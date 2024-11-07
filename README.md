@@ -9,7 +9,7 @@
 Hello! I’m Anusha Abdulla, a passionate student/researcher, eager to use data science for impactful causes like housing, food and water scarcity, and medical technology. You'll find a mix of my academic projects, personal explorations, and professional growth here. 
 
 ## 📖 Table of Contents
-- [Background](#🌟-Background)
+- [Background](#-🌟-Background)
 - [Projects](#💻-Projects)
 - [Courses & Skills](#📚-Courses-&-Skills)
 - [Goals & Inspirations](#🚀-Goals-&-Inspirations)
