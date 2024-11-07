@@ -40,10 +40,17 @@ Explore my GitHub for the full project collection!
 
 I’m constantly building my technical foundation through courses and hands-on practice. Here are some highlights:
 
-- **Machine Learning Fundamentals** - Cornell University
-- **Advanced Python Programming** - Independent Study
-- **SQL & MySQL** - Currently learning and applying on live projects
-- **Data Analysis and Visualization** - Various libraries (Pandas, Matplotlib, Seaborn)
+#### **Lower Level**:
+- **Programming 1** - Java
+- **Programming 2, Data Structures, Operating Systems** - C
+- **Systems Programming** - C, Bash
+- **Computer Organization** - Organization of a computer system introduced at the block diagram level - basic assembly
+- **Application Programming** - Android Studio app - Java
+  
+#### **Upper Level**:
+- **Foundations of Machine Learning** - Cornell University
+- **Data Science** - Introduction to algorithms and their logic - Python
+- **Database Systems** - Database design, storage systems, indexing, and hashing - SQL
 
 ---
 
