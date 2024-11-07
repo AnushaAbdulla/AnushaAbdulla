@@ -11,7 +11,7 @@ Hello! I’m Anusha Abdulla, a passionate student/researcher, eager to use data 
 ## 📖 Table of Contents
 - [Background](#-Background)
 - [Projects](#-Projects)
-- [Courses & Skills](#-Courses--&--Skills)
+- [Courses & Skills](#-Courses-&-Skills)
 - [Goals & Inspirations](#-Goals-&-Inspirations)
 - [Connect with Me](#-Connect-with-Me)
 
