@@ -49,7 +49,7 @@ I’m constantly building my technical foundation through courses and hands-on p
 
 ## 🚀 Goals & Inspirations
 
-I’m working toward a career in [mention career goals, e.g., "the machine learning industry"], focusing on applications that positively impact communities. My dream job would involve applying data science to solve real-world challenges in fields like [mention fields, e.g., "sustainable agriculture or medical research"].
+I’m working toward a career in data and machine learning, focusing on applications that positively impact communities. My dream job would involve applying data science to solve real-world challenges in fields like housing, sustainable agriculture, and medical sciences.
 
 ---
 
