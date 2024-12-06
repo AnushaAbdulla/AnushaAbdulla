@@ -63,6 +63,7 @@ I’m working toward a career in data and machine learning, focusing on applicat
 ## 📬 Connect with Me
 
 Let’s collaborate or chat about shared interests!  
+- **Email**: anushaabdulla01@gmail.com
 - **LinkedIn**: [Anusha Abdulla](https://www.linkedin.com/in/AnushaAbdulla)
 - **GitHub**: [Anusha Abdulla](https://github.com/AnushaAbdulla)
 --- 
