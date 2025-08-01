@@ -6,7 +6,7 @@
 
 # Welcome to My GitHub! 👋
 
-Hello! I’m Anusha Abdulla, a passionate student/researcher, eager to use data science for impactful causes like housing, food and water scarcity, and medical technology. You'll find a mix of my academic projects, personal explorations, and professional growth here. 
+Hello! I’m Anusha Abdulla, a passionate student/researcher/intern at American Tenet, eager to use data science and machine learning for impactful causes like housing, food and water scarcity, and medical technology. You'll find a mix of my academic projects, personal explorations, and professional growth here. 
 
 ## 📖 Table of Contents
 - [Background](#-Background)
@@ -19,7 +19,7 @@ Hello! I’m Anusha Abdulla, a passionate student/researcher, eager to use data 
 
 ## 🌟 Background
 
-I am a Junior in Computer Science at UTSA, diving deeper into machine-learning techniques and real-world applications. With experience in everything from clustering algorithms to IoT malware detection, I’m on a journey to use technology to make resources more accessible and beneficial for all.
+I am a Senior in Computer Science at UTSA, diving deeper into machine-learning techniques and real-world applications. With experience in everything from clustering algorithms to IoT malware detection, I’m on a journey to use technology to make resources more accessible and beneficial for all.
 
 ---
 
