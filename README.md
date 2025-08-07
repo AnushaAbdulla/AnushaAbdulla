@@ -50,6 +50,9 @@ I’m constantly building my technical foundation through courses and hands-on p
 - **Foundations of Machine Learning** - Cornell University
 - **Data Science** - Introduction to algorithms and their logic - Python
 - **Database Systems** - Database design, storage systems, indexing, and hashing - SQL
+- **Software Engineering** - methodology of building software systems
+- **Artificial Intelligence** - python; introduction to various algorithms
+- **Web Technologies** - HTML, Javascript, CSS; building a full website 
 
 ---
 
