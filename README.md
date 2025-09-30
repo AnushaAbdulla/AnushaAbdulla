@@ -39,6 +39,8 @@ Explore my GitHub for the full project collection!
 
 I’m constantly building my technical foundation through courses and hands-on practice. Here are some highlights:
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68dc2993dcae30387719ee02?variant=dark&roadmaps=%2Cfrontend%3Fr%3Dfrontend-beginner%2Csql%2Cpython" alt="roadmap.sh"/></a>
+
 #### **Lower Level**:
 - **Programming 1** - Java
 - **Programming 2, Data Structures, Operating Systems** - C
