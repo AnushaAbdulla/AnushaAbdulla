@@ -27,9 +27,10 @@ I am a Senior in Computer Science at UTSA, diving deeper into machine-learning t
 
 Here’s a snapshot of some of my favorite projects. Each project showcases a different facet of my skill set, from data preprocessing to real-time data analysis:
 
+- **[UTSA Parking Hub](https://github.com/AnushaAbdulla/UserInterfaces-UTSAParkingHub)**: A class project to create an app to handle parking reservations.
+- **[Personal Website](https://github.com/AnushaAbdulla/anushaabdulla.github.io)**: This is part of the website I created. Most of it is limited due to git pages being static. I am working on launching it with AWS. 
 - **[predicting_auto_claims](https://github.com/AnushaAbdulla/predicting_auto_claims)**: A group project using multiple models to predict claim amounts for Allstate.
 - **[predict_race_from_census_data](https://github.com/AnushaAbdulla/predict_race_from_census_data)**: A Machine Learning project using RandomForest to predict the race of                                                                                                                     people based on US Census data.
-- **[Two-Note](https://github.com/AnushaAbdulla/Two-Note)**: A collaborative, interactive notebook designed to enhance productivity.
 
 Explore my GitHub for the full project collection!
 
