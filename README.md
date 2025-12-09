@@ -48,6 +48,7 @@ I’m constantly building my technical foundation through courses and hands-on p
 - **Systems Programming** - C, Bash
 - **Computer Organization** - Organization of a computer system introduced at the block diagram level - basic assembly
 - **Application Programming** - Android Studio app - Java
+- **User Interfaces** - Dart, Flutter, and making apps
   
 #### **Upper Level**:
 - **Foundations of Machine Learning** - Cornell University
@@ -55,7 +56,9 @@ I’m constantly building my technical foundation through courses and hands-on p
 - **Database Systems** - Database design, storage systems, indexing, and hashing - SQL
 - **Software Engineering** - methodology of building software systems
 - **Artificial Intelligence** - python; introduction to various algorithms
-- **Web Technologies** - HTML, Javascript, CSS; building a full website 
+- **Web Technologies** - HTML, Javascript, CSS; building a full website
+- **Data Mining** - Python, mining streams, time-series, texts, and graphs
+- **Machine Learning** - Python, unsupervised learning, supervised learning, reinforcement learning
 
 ---
 
