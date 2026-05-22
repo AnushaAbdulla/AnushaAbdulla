@@ -27,10 +27,15 @@ I am a Senior in Computer Science at UTSA, diving deeper into machine-learning t
 
 Here’s a snapshot of some of my favorite projects. Each project showcases a different facet of my skill set, from data preprocessing to real-time data analysis:
 
-- **[UTSA Parking Hub](https://github.com/AnushaAbdulla/UserInterfaces-UTSAParkingHub)**: A class project to create an app to handle parking reservations.
-- **[Personal Website](https://github.com/AnushaAbdulla/anushaabdulla.github.io)**: This is part of the website I created. Most of it is limited due to git pages being static. I am working on launching it with AWS. 
-- **[predicting_auto_claims](https://github.com/AnushaAbdulla/predicting_auto_claims)**: A group project using multiple models to predict claim amounts for Allstate.
-- **[predict_race_from_census_data](https://github.com/AnushaAbdulla/predict_race_from_census_data)**: A Machine Learning project using RandomForest to predict the race of                                                                                                                     people based on US Census data.
+- **[American Tenet (YOLO based)]()**: A class project created in tangent with American Tenet to create a custom vision model to detect objects from a drone.
+- **[Hurricaine Prediction Model](https://github.com/AnushaAbdulla/hurricanePredictingModel)**: A machine learning project focused on time-series forecasting and meteorological data to predict hurricane trajectories and intensities.
+- **[ROZ]()**: A multimodal machine learning project using PyTorch and Librosa to synchronize a robotic arm's movements with audio features like MFCCs, featuring hardware-safety constraints. 
+
+
+More Basic projects:
+- **[Personal Website](https://github.com/AnushaAbdulla/anushaabdulla.github.io)**: This is part of the website I created. Most of it is limited due to git pages being static. I am working on launching it with AWS.
+- **[Predicting_Auto_Claims](https://github.com/AnushaAbdulla/predicting_auto_claims)**: A group project using multiple models to predict claim amounts for Allstate.
+- **[Predict_Race_from_Census_Data](https://github.com/AnushaAbdulla/predict_race_from_census_data)**: A Machine Learning project using RandomForest to predict the race of people based on US Census data.
 
 Explore my GitHub for the full project collection!
 
@@ -38,9 +43,9 @@ Explore my GitHub for the full project collection!
 
 ## 📚 Courses & Skills
 
-I’m constantly building my technical foundation through courses and hands-on practice. Here are some highlights:
+<!-- I’m constantly building my technical foundation through courses and hands-on practice. Here are some highlights:
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68dc2993dcae30387719ee02?variant=dark&roadmaps=%2Cfrontend%3Fr%3Dfrontend-beginner%2Csql%2Cpython" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/68dc2993dcae30387719ee02?variant=dark&roadmaps=%2Cfrontend%3Fr%3Dfrontend-beginner%2Csql%2Cpython" alt="roadmap.sh"/></a> -->
 
 #### **Lower Level**:
 - **Programming 1** - Java
@@ -59,6 +64,8 @@ I’m constantly building my technical foundation through courses and hands-on p
 - **Web Technologies** - HTML, Javascript, CSS; building a full website
 - **Data Mining** - Python, mining streams, time-series, texts, and graphs
 - **Machine Learning** - Python, unsupervised learning, supervised learning, reinforcement learning
+- **Deep Learning** - Python, PyTorch/TensorFlow; neural networks, computer vision (CNNs), and sequence models (RNNs/Transformers)
+- **Software Architecture & Design** - Design patterns, architectural styles, system scalability, and object-oriented design principles
 
 ---
 
